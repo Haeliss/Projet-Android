@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Droidino</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Adresse mail </string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Se connecter ou s'inscrire</string>
+    <string name="forget"><u>Mot de passe oublié ?</u></string>
+    <string name="sub"><u>Vous ne possédez pas de compte ?\n En créer un !</u></string>
+    <string name="connect">Se connecter</string>
+</resources>
